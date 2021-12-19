@@ -1,2 +1,4 @@
 # Repositório do desafio sobre Git/Github da DIO
-Desafio de Projeto sobre Git/Github
+Repositório criado para o Desafio do projeto 
+
+## Links Úteis ##
